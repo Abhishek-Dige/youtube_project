@@ -1,0 +1,7 @@
+from google.cloud import aiplatform
+
+# Initialize Vertex AI
+aiplatform.init(project="sigma-central-429311", location="us-central1")
+
+# Just print to confirm
+print("Vertex AI initialized ✅")

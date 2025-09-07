@@ -1,0 +1,5 @@
+api_keys.env
+__pycache__/
+*.pyc
+hindi_version/
+.vscode/
