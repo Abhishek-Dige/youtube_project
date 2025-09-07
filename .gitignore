@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 hindi_version/
 .vscode/
+*.mp3
+*.txt
+*.json
